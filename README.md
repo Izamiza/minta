@@ -1,0 +1,2 @@
+# minta
+Coursera gyakorló kurzus
